@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[39],{DhBn:function(e,n,t){"use strict";t.r(n);var o=t("q1tI"),c=t.n(o);n.default=function(e){return Object(o.useEffect)((function(){window.addEventListener("message",(function(e){console.log("inside LocalStorage receiveMessage",e,e.data),parent.postMessage(window.localStorage.getItem("jwt_token"),"https://checkout.onequince.com")}))}),[]),c.a.createElement("div",null)}}}]);
+//# sourceMappingURL=component---src-templates-local-storage-js-aedb35ebce736cfda4f2.js.map
